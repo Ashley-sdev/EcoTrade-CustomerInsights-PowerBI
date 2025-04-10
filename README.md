@@ -35,6 +35,7 @@ Main dashboard view:
 <img src="images/certified_preference.png" width="500"/>
 <img src="images/revenue_by_region.png" width="350"/>
 
+
 ## 📁 Files Included
 
 | File | Description |
