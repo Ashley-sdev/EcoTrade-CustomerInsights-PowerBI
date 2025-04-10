@@ -23,13 +23,17 @@ This project is a Power BI business intelligence dashboard built for **EcoTrade*
 - **DAX** (for calculated KPIs)
 - **Custom visuals** (Box and Whisker chart)
 
-## 📈 Dashboard Preview
+## 📸 Dashboard Preview
+
+Main dashboard view:
+<img src="images/dashboard_overview.png" width="700"/>
 
 *Below are some sample visuals recreated from R analysis into Power BI:*
 
 <img src="images/income_by_age.png" width="500"/>
 <img src="images/customer_by_region.png" width="500"/>
 <img src="images/certified_preference.png" width="500"/>
+<img src="images/revenue_by_region.png" width="350"/>
 
 ## 📁 Files Included
 
